@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # logica-programacao-ifrs-modulo2
 Exercícios e exemplos do Módulo 2 do curso de Lógica de Programação (Portugol Studio) do IFRS 
 =======
@@ -32,4 +32,4 @@ Este repositório contém alguns exemplos simples de programas em Portugol para 
 Você pode abrir esses arquivos em um editor de Portugol  para testar e estudar. : https://portugol.dev/
 
 
->>>>>>> e02a985 (Primeiro commit dos exercícios módulo 2)
+
