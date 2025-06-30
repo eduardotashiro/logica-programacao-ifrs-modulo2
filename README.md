@@ -1,12 +1,6 @@
-HEAD
-# logica-programacao-ifrs-modulo2
-Exercícios e exemplos do Módulo 2 do curso de Lógica de Programação (Portugol Studio) do IFRS 
-=======
-# Repositório de Exemplos em Portugol (Algoritmo)
-
-Este repositório contém alguns exemplos simples de programas em Portugol para auxiliar no estudo de lógica de programação.
-
-## Conteúdo
+# Módulo 2 - Curso de Lógica de Programação
+Este repositório contém os códigos exemplos e exercícios realizados no Módulo 2 do curso de Lógica de Programação do IFRS, utilizando a linguagem de pseudocódigo Portugol Studio.
+# Conteúdo
 
 - **exemplo01_comparacao.alg:** Comparação simples entre números
 - **exemplo02_relacionais.alg:** Uso de operadores relacionais
@@ -22,14 +16,14 @@ Este repositório contém alguns exemplos simples de programas em Portugol para 
 - **exemplo12_relacionais_simples.alg:** Exemplo simples de operadores relacionais
 - **exemplo13_comparacao_simples.alg:** Exemplo simples de comparação com soma
 
-## Vídeos recomendados para estudo:
+# Vídeos recomendados para estudo:
 
 - Operadores Lógicos: https://www.youtube.com/watch?v=bvi40LbrOQI
 - Desvios Condicionais: https://www.youtube.com/watch?v=SHOTQ869TY0&embeds_referring_euri=https%3A%2F%2Fmoodle.ifrs.edu.br%2F&source_ve_path=OTY3MTQ
 
-## Como usar
+# Como usar
 
-Você pode abrir esses arquivos em um editor de Portugol  para testar e estudar. : https://portugol.dev/
+Você pode abrir esses arquivos em um editor de Portugol  para testar e estudar    [**CLIQUE AQUI !!**](https://portugol.dev/)
 
 
 
